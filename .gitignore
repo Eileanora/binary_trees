@@ -1,0 +1,9 @@
+*
+!*.*
+!*/
+main
+main.c
+[0-9]*-main
+[0-9]*-main.c
+.vscode
+*.log
